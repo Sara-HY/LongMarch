@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Long March</title>
+    <!--css库-->
+    <link rel="stylesheet" href="libs/bootstrap-dist/css/bootstrap.min.css">
+    <!--css样式表文件-->
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+    <nav class="navbar navbar-inverse" style="background-color: #293C55; border-color: #293c55" >
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">LongMarch Visualization</a>
+            </div>
+            <p class="navbar-text navbar-right">Sara Han</p>
+        </div>
+    </nav>
+
+    <!-- div to hold tooltip. -->
+    <div id="tooltip" style="opacity:0"></div>
+
+
+    <div id="labels"></div>
+
+    <!-- svg to hold the map. -->
+    <div id="statesvg"></div>
+    <div id="input">
+        <div>
+            <input name = "route" type="radio" onclick="load('中央红军')"/>中央红军  &nbsp;&nbsp;
+            <input name = "route" type="radio" onclick="load('红二方面军')"/>红二方面军 &nbsp;&nbsp;
+            <input name = "route" type="radio" onclick="load('红四方面军')"/>红四方面军 &nbsp;&nbsp;
+            <input name = "route" type="radio" onclick="load('红25军')"/>红25军
+        </div>
+    </div>
+
+    <!--加载用到的js库-->
+    <script type="text/javascript" src="libs/d3-dist/queue.v1.min.js"></script>
+    <script type="text/javascript" src="libs/d3-dist/d3.v3.min.js"></script>
+    <script type="text/javascript" src="libs/jquery-dist/jquery.min.js"></script>
+    <!--<script type="text/javascript" src="scripts/china.js"></script>-->
+    <script type="text/javascript" src="scripts/main.js"></script>
+
+</body>
+</html>
+
+
+

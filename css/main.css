@@ -1,0 +1,96 @@
+body {
+    font: 18px historical-ligatures;
+    margin: auto;
+    color: #B0C4DE;
+    background-color: #404a59;
+}
+
+#statesvg{
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    width: 1000px;
+    height:650px;
+}
+
+.states{
+    fill: #323c48;
+    stroke: #404a59;
+    stroke-width: 1;
+
+}
+.states:hover{
+    fill: #2a333d;
+
+}
+
+.cities {
+    fill: #FF0000;
+    fill-opacity: 0.7;
+    stroke: #F08080;
+    stroke-width: 1.5px;
+    z-index: 9;
+}
+
+.route {
+    fill: none;
+    stroke: #F08080;
+    stroke-width: 1.5px;
+    z-index: 5;
+
+    stroke-dasharray: 500, 500;
+    stroke-dashoffset: 500;
+    -webkit-animation: 'draw' 8s linear alternate;
+}
+
+@-webkit-keyframes draw {
+    from {
+        stroke-dashoffset: 500;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+#input {
+    position: absolute;
+    top: 12%;
+    left: 30%;
+}
+
+#tooltip{
+    position: absolute;
+    text-align: center;
+    width:400px;
+    padding: 4px;
+    margin: 10px;
+    font: 12px sans-serif;
+    pointer-events: none;
+    border: 1px solid antiquewhite;
+    border-radius:5px;
+    background: #F08080;
+    color:navajowhite;
+    opacity: 100;
+    z-index: 99;
+}
+
+#tooltip h4{
+    margin:0;
+    font-size:14px;
+}
+
+#tooltip table{
+    table-layout:fixed;
+}
+
+#tooltip tr td{
+    padding:0;
+    margin:0;
+    text-align:center;
+}
+
+text {
+    font: 12px sans-serif;
+}
+
+

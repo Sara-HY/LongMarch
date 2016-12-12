@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"id": 1 , "route": "红二方面军" , "name": "湘鄂边根据地", "content": "红6军团与红2军团在黔东会师后，发起湘西攻势，建立了湘鄂川黔根据地，并打破了国民党军队对根据地的“围剿”，有力地配合了中央红军的长征。"},
+      "geometry": {"type": "Point", "coordinates": [113.4759800000, 29.8254580000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2 , "route": "红二方面军" , "name": "沅江", "content": "突破澧水、沅江封锁线。"},
+      "geometry": {"type": "Point", "coordinates": [112.3559540000, 28.8470450000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3 , "route": "红二方面军" , "name": "乌江", "content": "乌江的两岸全是悬崖绝壁，就像用刀子切过似的。在贵州乌江渡口发生的国共之间的战争，红军先遣团全体指战员胜利地渡过了乌江。"},
+      "geometry": {"type": "Point", "coordinates": [107.6406786000, 28.4715949000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4 , "route": "红二方面军" , "name": "盘县", "content": "三过盘县，红一军团、三军团、五军团、中央纵队以及红二、六军团先后经过这里。尤其是红二、六军团在盘县召开的“盘县会议”，更是在中国革命史上留下了光辉的篇章。"},
+      "geometry": {"type": "Point", "coordinates": [104.4715350000, 25.7100020000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5 , "route": "红二方面军" , "name": "宣威", "content": "中国共产党领导的中国工农红军红一方面军（即中央红军）和红二方面军（即红二、六军团），长征先后两次途经曲靖地区。"},
+      "geometry": {"type": "Point", "coordinates": [104.1044750000, 26.2197670000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6 , "route": "红二方面军" , "name": "石鼓镇", "content": "在石鼓渡口体验完红军渡金沙江。"},
+      "geometry": {"type": "Point", "coordinates": [99.9555580000, 26.8641520000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7 , "route": "红二方面军" , "name": "金沙江", "content": "中央纵队先遣队干部团在总参谋长刘伯承指挥下，占领金沙江南岸皎平渡口，缴获停留在江上的两条渡船，并偷渡成功，歼灭国民党川康边防军1个排和江防大队一部，占领北岸渡口。为巩固渡口，干部团在通安附近击溃川军2个团，牢固地控制渡口。红一、红三军团分别抢占龙街渡口和洪门渡口，兵多船少，大部队难以迅速过江。除留第十三团在洪门渡口渡江外，主力红军全部改由皎平渡渡江。红五军团依托有利地形节节抵抗，迟滞该师行动，保障主力红军渡过金沙江。"},
+      "geometry": {"type": "Point", "coordinates": [102.8004053591, 26.3025461443]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 8 , "route": "红二方面军" , "name": "甘孜", "content": "红二方面军与红四方面军会师。"},
+      "geometry": {"type": "Point", "coordinates": [101.9623110000, 30.0495200000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 9 , "route": "红二方面军" , "name": "将台堡", "content": "红二方面军总指挥部及二军团与一军团二师在将台堡会师，宣告红军长征三大主力胜利会师，结束了伟大的长征，将台堡也闻名于世。"},
+      "geometry": {"type": "Point", "coordinates": [105.8407390000, 35.8198130000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 10 , "route": "红二方面军" , "name": "会宁", "content": "会宁会师为一次历史事件。标志着中央红军长征的结束。"},
+      "geometry": {"type": "Point", "coordinates": [105.0533279508, 35.6929100678]}
+    }
+  ]
+}

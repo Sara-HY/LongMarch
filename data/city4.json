@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"id": 1 , "route": "红25军" , "name": "何家冲", "content": "在第二次国内革命战争中，中国工农红军第25军退出鄂豫皖苏区，经鄂豫陕向陕甘苏区的战略转移。由河南省罗山县何家冲出发，向平汉铁路以西转移，开始长征。"},
+      "geometry": {"type": "Point", "coordinates":  [114.5130287431, 32.2030964147]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2 , "route": "红25军" , "name": "双河镇", "content": "飞速向北疾驰，一昼夜行程200余里，在信阳的柳林和双河之间越过平汉铁路，进入桐柏山区。"},
+      "geometry": {"type": "Point", "coordinates":  [114.0264171712, 32.8020580986]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3 , "route": "红25军" , "name": "独树镇", "content": "独树镇战斗，是红25军生死攸关的一次血战。红军虽然人少，处于劣势，但红军不怕死，却是极大的优势；敌人虽然多，但他们没有红军不怕死的精神，又成了劣势。"},
+      "geometry": {"type": "Point", "coordinates":  [113.0124679412, 33.2543798715]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4 , "route": "红25军" , "name": "铁锁关", "content": "铁锁关为古容裘道，也即由勉入宁之间道所必经之要隘。红军长征中，铁锁关也曾留下革命佳话。"},
+      "geometry": {"type": "Point", "coordinates":  [111.0478277868, 34.0543116956]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5 , "route": "红25军" , "name": "沣峪口", "content": "鄂豫陕省委在长安沣峪口老爷庙召开紧急会议，决定立即率领红二十五军西征北上，与陕甘红军会师。"},
+      "geometry": {"type": "Point", "coordinates":  [108.8119347781, 34.0348068751]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6 , "route": "红25军" , "name": "两当", "content": "红二十五军从双石铺出发，进入甘肃两当境内，至灵官，部队分三路占领了两当县城附近的祖师山、贯沟、北崖沟、刘坪一带阵地，迅速包围了两当县城。"},
+      "geometry": {"type": "Point", "coordinates":  [106.3049510342, 33.9089083446]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7 , "route": "红25军" , "name": "六盘山", "content": "六盘山是红军长征翻越的最后一座高山，也是红军长征的胜利之山。历经八年抗日战争，四年解放战争，中国革命的历史又翻开了崭新的一页。"},
+      "geometry": {"type": "Point", "coordinates":  [105.2987389454, 34.0142118706]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 8 , "route": "红25军" , "name": "泾川", "content": "四坡战役：红25军长征到甘肃平凉以东地域，平凉白水镇出发，到达径川县城以西的四坡村一带，决定南渡纳河，摆脱敌军纠缠。红25军一部已渡过纳河，后尾部队背水作战，形势极为不利。此时，军政治委员吴焕先已随先头部队过河。当看到对岸兵力单薄、情势急危时，便率部分部队回渡油河以北，向敌阵地猛烈冲去，占领制高点，遏制住敌人的攻击。"},
+      "geometry": {"type": "Point", "coordinates":  [107.3678348564, 35.3326611779]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 9 , "route": "红25军" , "name": "板桥", "content": "板桥关是汶川到都江堰路上的第一关，饬令以关据险扼守。"},
+      "geometry": {"type": "Point", "coordinates":  [108.0195070725, 35.8192274870]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 10 , "route": "红25军" , "name": "永坪镇", "content": "由鄂豫陕革命根据地突围的红25军，，挥师北上，到达延川县永坪镇。"},
+      "geometry": {"type": "Point", "coordinates":  [109.8237388190, 37.0099394423]}
+    }
+
+  ]
+}

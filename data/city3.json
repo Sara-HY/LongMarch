@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"id": 1 , "route": "红四方面军" , "name": "川陕根据地", "content": "为了支援中央红军进入四川，发展至鼎盛时期的红四方面军突然放弃川陕根据地，开始长征。"},
+      "geometry": {"type": "Point", "coordinates": [107.4220880000, 32.1015120000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2 , "route": "红四方面军" , "name": "渡嘉陵江", "content": "红四方面军主力西渡嘉陵江，策应中央红军北上，进行了精心准备。他们刚刚取得了粉碎四川军阀六路围攻的胜利。为了渡江，红军专门成立了直属水兵连。"},
+      "geometry": {"type": "Point", "coordinates": [106.3339632000, 31.8952882000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3 , "route": "红四方面军" , "name": "茂县", "content": "中国工农红军第四方面军西进岷江，在茂县转战近8个月，充分发动群众打土豪、分田地，建立起了县乡村苏维埃和番（羌）人民革命政府等政权机构，把革命的火种洒遍了古老的羌乡大地。"},
+      "geometry": {"type": "Point", "coordinates": [103.8533425174, 31.6816281967]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4 , "route": "红四方面军" , "name": "懋功", "content": "红四方面军的西进部队首先攻克懋功。接着，以一部前出至懋功东南的达维乡。并红一方面军先头部队在北进达维途中，同红四方面军一部胜利会师。"},
+      "geometry": {"type": "Point", "coordinates": [102.3644048141, 30.9991739275]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5 , "route": "红四方面军" , "name": "毛儿盖", "content": "共中央局在毛儿盖召开会议，批评了张国焘的错误主张，决定以主力迅速占领洮河流域地区，并以此向东发展取得陕甘。"},
+      "geometry": {"type": "Point", "coordinates": [103.5989188697, 32.6381787828]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6 , "route": "红四方面军" , "name": "甘孜", "content": "红二方面军与红四方面军会师。"},
+      "geometry": {"type": "Point", "coordinates": [103.9623110000, 33.0495200000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7 , "route": "红四方面军" , "name": "会宁", "content": "会宁会师为一次历史事件。标志着中央红军长征的结束。"},
+      "geometry": {"type": "Point", "coordinates":  [105.0533279508, 35.6929100678]}
+    }
+  ]
+}

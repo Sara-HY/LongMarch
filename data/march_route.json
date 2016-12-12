@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"id": 1 , "route": "中央红军" , "name": "瑞金"},
+      "geometry": {"type": "Point", "coordinates": [116.0270584604, 25.8856277710]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2 , "route": "中央红军" , "name": "湘江"},
+      "geometry": {"type": "Point", "coordinates": [111.0730295215, 25.9285726818]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3 , "route": "中央红军" , "name": "遵义"},
+      "geometry": {"type": "Point", "coordinates": [106.9272267268, 27.7254323080]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4 , "route": "中央红军" , "name": "赤水"},
+      "geometry": {"type": "Point", "coordinates": [105.7540805477, 28.4978282379]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5 , "route": "中央红军" , "name": "金沙江"},
+      "geometry": {"type": "Point", "coordinates": [102.8004053591, 26.3025461443]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6 , "route": "中央红军" , "name": "泸定"},
+      "geometry": {"type": "Point", "coordinates": [102.2347083246, 29.9141417820]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7 , "route": "中央红军" , "name": "夹金山 宝兴县"},
+      "geometry": {"type": "Point", "coordinates": [102.8145568470, 30.3681115732]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 8 , "route": "中央红军" , "name": "四川懋功 小金县"},
+      "geometry": {"type": "Point", "coordinates": [102.3644048141, 30.9991739275]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 9 , "route": "中央红军" , "name": "毛尔盖 四川松潘"},
+      "geometry": {"type": "Point", "coordinates": [103.5989188697, 32.6381787828]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 10 , "route": "中央红军" , "name": "过草地 若尔盖"},
+      "geometry": {"type": "Point", "coordinates": [102.9618623239, 33.5758632616]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 11 , "route": "中央红军" , "name": "腊子口"},
+      "geometry": {"type": "Point", "coordinates": [103.2217504414, 34.0558837548]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 12 , "route": "中央红军" , "name": "吴起镇"},
+      "geometry": {"type": "Point", "coordinates": [108.1758824066, 36.9272829115]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 13 , "route": "中央红军" , "name": "会宁"},
+      "geometry": {"type": "Point", "coordinates": [105.0533279508, 35.6929100678]}
+    },
+
+    {
+      "type": "Feature",
+      "properties": {"id": 1 , "route": "红二方面军" , "name": "湘鄂边根据地"},
+      "geometry": {"type": "Point", "coordinates": [113.4759800000, 29.8254580000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2 , "route": "红二方面军" , "name": "沅江"},
+      "geometry": {"type": "Point", "coordinates": [112.3559540000, 28.8470450000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3 , "route": "红二方面军" , "name": "乌江"},
+      "geometry": {"type": "Point", "coordinates": [107.6406786000, 28.4715949000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4 , "route": "红二方面军" , "name": "贵州盘县"},
+      "geometry": {"type": "Point", "coordinates": [104.4715350000, 25.7100020000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5 , "route": "红二方面军" , "name": "云南宣威"},
+      "geometry": {"type": "Point", "coordinates": [104.1044750000, 26.2197670000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6 , "route": "红二方面军" , "name": "云南石鼓镇"},
+      "geometry": {"type": "Point", "coordinates": [99.9555580000, 26.8641520000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7 , "route": "红二方面军" , "name": "渡金沙江"},
+      "geometry": {"type": "Point", "coordinates": [102.8004053591, 26.3025461443]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 8 , "route": "红二方面军" , "name": "甘孜"},
+      "geometry": {"type": "Point", "coordinates": [101.9623110000, 30.0495200000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 9 , "route": "红二方面军" , "name": "甘肃将台堡"},
+      "geometry": {"type": "Point", "coordinates": [105.8407390000, 35.8198130000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 10 , "route": "红二方面军" , "name": "会宁"},
+      "geometry": {"type": "Point", "coordinates": [105.0533279508, 35.6929100678]}
+    },
+
+    {
+      "type": "Feature",
+      "properties": {"id": 1 , "route": "红四方面军" , "name": "川陕根据地"},
+      "geometry": {"type": "Point", "coordinates": [107.4220880000, 32.1015120000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2 , "route": "红四方面军" , "name": "渡嘉陵江"},
+      "geometry": {"type": "Point", "coordinates": [106.3339632000, 31.8952882000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3 , "route": "红四方面军" , "name": "四川茂县"},
+      "geometry": {"type": "Point", "coordinates": [103.8533425174, 31.6816281967]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4 , "route": "红四方面军" , "name": "四川懋功 小金县"},
+      "geometry": {"type": "Point", "coordinates": [102.3644048141, 30.9991739275]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5 , "route": "红四方面军" , "name": "毛儿盖(四川松潘)"},
+      "geometry": {"type": "Point", "coordinates": [103.5989188697, 32.6381787828]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6 , "route": "红四方面军" , "name": "甘孜"},
+      "geometry": {"type": "Point", "coordinates": [101.9623110000, 30.0495200000]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7 , "route": "红四方面军" , "name": "会宁"},
+      "geometry": {"type": "Point", "coordinates":  [105.0533279508, 35.6929100678]}
+    },
+
+    {
+      "type": "Feature",
+      "properties": {"id": 1 , "route": "红25军" , "name": "何家冲"},
+      "geometry": {"type": "Point", "coordinates":  [114.5130287431, 32.2030964147]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2 , "route": "红25军" , "name": "双河镇"},
+      "geometry": {"type": "Point", "coordinates":  [114.0264171712, 32.8020580986]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3 , "route": "红25军" , "name": "独树镇"},
+      "geometry": {"type": "Point", "coordinates":  [113.0124679412, 33.2543798715]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4 , "route": "红25军" , "name": "铁锁关"},
+      "geometry": {"type": "Point", "coordinates":  [111.0478277868, 34.0543116956]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5 , "route": "红25军" , "name": "沣峪口"},
+      "geometry": {"type": "Point", "coordinates":  [108.8119347781, 34.0348068751]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6 , "route": "红25军" , "name": "两当"},
+      "geometry": {"type": "Point", "coordinates":  [106.3049510342, 33.9089083446]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7 , "route": "红25军" , "name": "六盘山"},
+      "geometry": {"type": "Point", "coordinates":  [105.2987389454, 34.0142118706]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 8 , "route": "红25军" , "name": "泾川"},
+      "geometry": {"type": "Point", "coordinates":  [107.3678348564, 35.3326611779]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 9 , "route": "红25军" , "name": "板桥"},
+      "geometry": {"type": "Point", "coordinates":  [108.0195070725, 35.8192274870]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 10 , "route": "红25军" , "name": "永坪镇"},
+      "geometry": {"type": "Point", "coordinates":  [109.8237388190, 37.0099394423]}
+    }
+
+  ]
+}
